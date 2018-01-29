@@ -1,0 +1,41 @@
+﻿  tld_utils.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TLD.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\tld.cpp(42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\tld.cpp(607): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\tld.cpp(608): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  run_tld.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PatchGenerator.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LKTracker.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\lktracker.cpp(16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\lktracker.cpp(17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  FerNNClassifier.cpp
+d:\opencv\opencv\newbuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\newbuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\fernnclassifier.cpp(51): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\fernnclassifier.cpp(52): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+f:\file\visual studio 2015\projects\tld跟踪\tld跟踪\fernnclassifier.cpp(53): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+  正在生成代码...
+  TLD跟踪.vcxproj -> f:\file\visual studio 2015\Projects\TLD跟踪\x64\Debug\TLD跟踪.exe
+  TLD跟踪.vcxproj -> f:\file\visual studio 2015\Projects\TLD跟踪\x64\Debug\TLD跟踪.pdb (Full PDB)

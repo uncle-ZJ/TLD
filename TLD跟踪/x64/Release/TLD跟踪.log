@@ -1,0 +1,12 @@
+﻿  run_tld.cpp
+D:\Opencv\opencv\newbuild\install\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Opencv\opencv\newbuild\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Opencv\opencv\newbuild\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Opencv\opencv\newbuild\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  44 of 1595 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TLD跟踪.vcxproj -> f:\file\visual studio 2015\Projects\TLD跟踪\x64\Release\TLD跟踪.exe
+  TLD跟踪.vcxproj -> f:\file\visual studio 2015\Projects\TLD跟踪\x64\Release\TLD跟踪.pdb (Full PDB)
